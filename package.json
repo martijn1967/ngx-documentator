@@ -27,5 +27,13 @@
     "Documentation"
   ],
   "author": "Martijn (Biggetje)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijn1967/ngx-documentator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martijn1967/ngx-documentator/issues"
+  },
+  "homepage": "https://github.com/martijn1967/ngx-documentator#readme"
 }
