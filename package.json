@@ -1,0 +1,31 @@
+{
+  "name": "ngx-documentator",
+  "version": "1.0.0",
+  "description": "Create documentation",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
+    "ts-morph": "^12.0.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.175",
+    "@types/node": "^16.11.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsdoc": "^36.1.0",
+    "eslint-plugin-prefer-arrow": "^1.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Documentation"
+  ],
+  "author": "Martijn (Biggetje)",
+  "license": "ISC"
+}
